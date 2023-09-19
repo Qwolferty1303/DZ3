@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    background: rgb(78,78,79);
+    background: linear-gradient(135deg, rgba(78,78,79,1) 0%, rgba(17,19,16,1) 100%);
+    height: 100%;
+    width: 100%;
+    font-family: sans-serif;
+    color: white;
+}
+
+.Exc1{
+    margin: 10px;
+    width: 350px;
+    height: 150px;
+    background-color: #373b3e;
+    display: flex;
+    flex-direction: column;
+}
+
+.blackInput{
+    background-color: #373b3e;
+    margin: 5px;
+    width: 330px;
+    color: white;
+    height: 30px;
+}
+
+.orangeValue{
+    width: 330px;
+    background-color: #a16100;
+    height: 40px;
+    margin: 5px;
+    border: 3px solid #5f4302;
+    border-bottom: none;
+    font-weight: 100;
+    overflow-x: auto;
+}
+
+.justTxt{
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.Exc2{
+    margin: 10px;
+    width: 500px;
+    height: 150px;
+    background-color: #373b3e;
+    display: flex;
+    flex-direction: column;
+}
+
+.blackInput2{
+    background-color: #373b3e;
+    margin: 5px;
+    width: 330px;
+    color: white;
+    height: 30px;
+}
+
+.orangeValue2{
+    width: 490px;
+    background-color: #a16100;
+    height: 40px;
+    margin: 5px;
+    border: 3px solid #5f4302;
+    border-bottom: none;
+    font-weight: 100;
+    overflow-x: auto;
+}
+
+.replaceBtn{
+    width: 100px;
+    background-color: #0e0d0d;
+    color: white;
+    height: 35px;
+    position: absolute;
+    margin-left: 370px;
+    margin-top: 40px;
+}
+
+.Exc3{
+    width: 600px;
+    height: 200px;
+    background-color: #373b3e;
+}
+
+.centerTxt{
+    position: absolute;
+    margin: 50px;
+    margin-left: 150px;
+}
+
+.addClass{
+    position: absolute;
+    margin: 100px;
+    margin-left: 250px;
+}
+
+.Exc4{
+    width: 600px;
+    height: 200px;
+    background-color: #373b3e;
+}
+
+.deleteClass{
+    position: absolute;
+    margin: 100px;
+    margin-left: 250px;
+}
+
+.Exc5{
+    width: 600px;
+    height: 200px;
+    background-color: #373b3e;
+}
+
+.deleteAddClass{
+    position: absolute;
+    margin: 100px;
+    margin-left: 215px;
+}
+
+.Exc6{
+    width: 600px;
+    height: 200px;
+    background-color: #373b3e;
+}
+
+.deleteAddClass2{
+    position: absolute;
+    margin: 100px;
+    margin-left: 215px;
+}
+
+.deleteAddClass3{
+    position: absolute;
+    margin: 140px;
+    margin-left: 260px;
+}
+
+.Exc9{
+    width: 600px;
+    height: 200px;
+    background-color: #373b3e;
+}
+
+.coloredSquare{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: #4e5357;
+    
+}
+
+.active{
+    background-color: #a16100;
+}
